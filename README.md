@@ -33,5 +33,5 @@ The project provides CRUD (Create, Read, Update, Delete) operations for managing
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/emp-project.git
+git clone https://github.com/Smiling203/emp-project.git
 cd emp-project
