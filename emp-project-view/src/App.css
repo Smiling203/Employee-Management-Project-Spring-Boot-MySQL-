@@ -1,0 +1,11 @@
+.App {
+  text-align: left;
+}
+
+body {
+  background-image:url('./images/email-3249062.webp') ;
+background-size: cover;
+background-position: center;
+color: white;
+height: 100vh;
+}
